@@ -22,13 +22,13 @@ I built a free project-pricing tool for freelancers who know their hourly rate b
 
 I would value feedback on one question: which assumption do you most often forget when quoting—meetings, revisions, client delays, payment fees, or something else?
 
-Link: https://scoperate-final.vercel.app/
+Link: https://scoperate-growth.vercel.app/
 
 **Posting rule:** Use only where self-promotion is permitted, disclose that you built it, stay to answer questions, and do not repost identical copy across communities.
 
 ### Short social post
 
-Freelancers: your hourly rate is not your fixed project price. ScopeRate accounts for deliverables, non-production hours, uncertainty, fees, tax reserve, profit, and deposit—then creates a client-ready estimate. Free, no signup, browser-only: https://scoperate-final.vercel.app/
+Freelancers: your hourly rate is not your fixed project price. ScopeRate accounts for deliverables, non-production hours, uncertainty, fees, tax reserve, profit, and deposit—then creates a client-ready estimate. Free, no signup, browser-only: https://scoperate-growth.vercel.app/
 
 ## First legitimate distribution targets
 
