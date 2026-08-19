@@ -1,0 +1,11 @@
+{
+  "name": "scoperate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Privacy-first freelance project pricing and scope calculator",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "test": "node tests.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
