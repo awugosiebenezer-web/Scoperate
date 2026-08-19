@@ -1,5 +1,5 @@
 import {readFileSync,existsSync} from 'node:fs';
-const files=['index.html','app.js','styles.css','privacy.html','terms.html','about.html','contact.html','dashboard.html','robots.txt','sitemap.xml','vercel.json'];
+const files=['index.html','app.js','styles.css','privacy.html','terms.html','about.html','contact.html','dashboard.html','robots.txt','sitemap.xml','vercel.json','sponsor.html','ads.txt','tools/hourly-rate-calculator.html','tools/scope-creep-cost-calculator.html','tools/project-deposit-calculator.html','tools/day-rate-calculator.html'];
 for(const f of files) if(!existsSync(f)) throw new Error(`Missing ${f}`);
 const html=readFileSync('index.html','utf8'), js=readFileSync('app.js','utf8');
 for(const id of ['currency','rate','tasks','quote','pdf','share','proposal']) if(!html.includes(`id="${id}"`)) throw new Error(`Missing id ${id}`);

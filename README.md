@@ -19,14 +19,21 @@ npm test
 
 ## Monetization status
 
-- Ad placements are reserved but disabled until legitimate network approval.
-- Future disclosed affiliate comparisons can cover invoicing, contracts, time tracking, and accounting tools.
+- Direct, clearly labeled sponsor inventory is live; third-party tracking pixels and deceptive creative are prohibited.
+- Programmatic ads are intentionally disabled; `ads.txt` states no authorized programmatic sellers.
 - Optional future Pro features: saved client templates, branded documents, and team pricing—only after demand validation.
 - No revenue, traffic, approval, or conversion data is fabricated.
 
 ## Revenue scenario (not a guarantee)
 
 At 20,000 monthly users, 1.7 pages/user, and a $12 display RPM: about $408/month in ads. If 3% click a relevant affiliate offer, 4% of clickers convert, and average commission is $60: about $1,440/month. Combined modeled revenue is about $1,848/month or $426/week. Actual results depend on ranking, audience, program approval, geography, and conversion.
+
+## Organic acquisition
+
+- Four indexable calculators target distinct high-intent search jobs.
+- IndexNow is configured for Bing and participating engines.
+- Original guides, structured metadata, sitemap, internal linking, and share links support compounding discovery.
+- Community and directory promotion must be human-posted from the owner’s legitimate accounts; no bots or spam.
 
 ## Deployment
 
